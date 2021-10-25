@@ -11,7 +11,7 @@ x = int(x)
 if x == 0:
   os.chdir('./000_Base_Folder')
 elif x == 1:
-  print('not done yet')
+  os.chdir('./001_Input_&_Variables')
 else:
   print('run again')
 
