@@ -12,7 +12,7 @@ if x == 0:
   os.chdir('./000_Base_Folder')
 elif x == 1:
   os.chdir('./001_Input_&_Variables')
- elif x ==2:
+elif x ==2:
   os.chdir('./002_Conditionals')
 else:
   print('run again')
