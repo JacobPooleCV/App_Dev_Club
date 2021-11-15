@@ -15,7 +15,9 @@ elif x == 1:
 elif x == 2:
   os.chdir('./002_Conditionals')
 elif x == 3:
-  os.chdir('./lab003_else_elif')
+  os.chdir('./003_else_elif')
+elif x == 4:
+  os.chdir('./004_Random')
 else:
   print('run again')
 
