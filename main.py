@@ -18,6 +18,8 @@ elif x == 3:
   os.chdir('./003_else_elif')
 elif x == 4:
   os.chdir('./004_Random')
+elif x == 5:
+  os.chdir('./005_Lists&Loops')
 else:
   print('run again')
 
