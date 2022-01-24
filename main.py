@@ -20,6 +20,8 @@ elif x == 4:
   os.chdir('./004_Random')
 elif x == 5:
   os.chdir('./005_Lists&Loops')
+elif x == 6:
+  os.chdir('./006_Dictionaries')
 else:
   print('run again')
 
