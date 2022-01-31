@@ -22,6 +22,8 @@ elif x == 5:
   os.chdir('./005_Lists&Loops')
 elif x == 6:
   os.chdir('./006_Dictionaries')
+elif x == 7:
+  os.chdir('./007_Functions')
 else:
   print('run again')
 
