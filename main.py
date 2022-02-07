@@ -24,6 +24,8 @@ elif x == 6:
   os.chdir('./006_Dictionaries')
 elif x == 7:
   os.chdir('./007_Functions')
+elif x == 8:
+  os.chdir('./008_Hangman')
 else:
   print('run again')
 
